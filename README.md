@@ -29,7 +29,7 @@ Kimera Richard
 Open Source user licence
 
 # Acknowledgments
-Google - Google Africa Scholarship
-Udacity 
+1. Google - Google Africa Scholarship
+2. Udacity 
 
 
